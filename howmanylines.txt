@@ -1,2 +1,0 @@
-Sat  4 Oct 15:47:01 BST 2025 	 2 awkoutputfile.txt
-Sat  4 Oct 15:47:01 BST 2025 	 31 myawkscript.awk
